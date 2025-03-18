@@ -1,8 +1,9 @@
 ## HI I'M NAILA ✨✨
 
 🧠 Software engineering student at SMK Budi Luhur </br>
+🙌 I'm Junior Frontend Developer </br>
 💻 I create website to advance my skill  </br>
-🎮 I create some game desktop based on godot  </br>
+🎮 I create some game desktop based at godot  </br>
 💯 I have account of [Instagram](https://www.instagram.com/naii_d0.0/)  </br>
 
 
