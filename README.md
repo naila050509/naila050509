@@ -1,4 +1,4 @@
-## HI I'M NAILA ✨✨
+<h2 align="center">✨ HI I'M NAILA ✨</h2>
 
 🧠 Software engineering student at SMK Budi Luhur </br>
 🙌 I'm Junior Frontend Developer </br>
